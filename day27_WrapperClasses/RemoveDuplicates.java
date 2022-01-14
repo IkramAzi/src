@@ -26,9 +26,9 @@ public class RemoveDuplicates {
 
         int[] numbers = {1,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,5};
 
-        // numbers = Arrays.stream(numbers).distinct().toArray();
+        // numbers = practiceBook.Arrays.stream(numbers).distinct().toArray();
 
-        // System.out.println(Arrays.toString(numbers));
+        // System.out.println(practiceBook.Arrays.toString(numbers));
 
 
     }

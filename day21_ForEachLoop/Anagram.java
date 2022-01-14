@@ -14,16 +14,16 @@ public class Anagram {
         char[] ch1= str1.toCharArray();
         char[] ch2 = str2.toCharArray();
 
-        //  System.out.println(Arrays.toString(ch1));
-        //   System.out.println(Arrays.toString(ch2));
+        //  System.out.println(practiceBook.Arrays.toString(ch1));
+        //   System.out.println(practiceBook.Arrays.toString(ch2));
 
         Arrays.sort(ch1);
         Arrays.sort(ch2);
 
         //  System.out.println();
 
-        // System.out.println(Arrays.toString(ch1));
-        //  System.out.println(Arrays.toString(ch2));
+        // System.out.println(practiceBook.Arrays.toString(ch1));
+        //  System.out.println(practiceBook.Arrays.toString(ch2));
 
         boolean anagram =  Arrays.equals(ch1, ch2);
 

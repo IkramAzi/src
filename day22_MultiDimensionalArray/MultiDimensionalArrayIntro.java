@@ -16,7 +16,7 @@ public class MultiDimensionalArrayIntro {
         groups[2] = group3;
 
 
-        //  System.out.println(Arrays.toString(groups)); //toString() is for one dimensional arrays only
+        //  System.out.println(practiceBook.Arrays.toString(groups)); //toString() is for one dimensional arrays only
         System.out.println( Arrays.deepToString(groups) );
 
         System.out.println("-----------------------------------------------------");

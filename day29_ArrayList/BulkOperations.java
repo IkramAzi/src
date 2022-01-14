@@ -58,7 +58,7 @@ public class BulkOperations {
 
         /*
         ArrayList<String> namesList = new ArrayList<>();
-        namesList.addAll( Arrays.asList(names) );
+        namesList.addAll( practiceBook.Arrays.asList(names) );
         */
 
         System.out.println(namesList);

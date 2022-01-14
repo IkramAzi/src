@@ -13,7 +13,7 @@ public class IteratingMultiDimensionalArray {
 
         for(int i=0; i < arr2D.length; i++){//i: index numbers of single dimensional arrays
 
-            // System.out.println(Arrays.toString(arr2D[i]) );
+            // System.out.println(practiceBook.Arrays.toString(arr2D[i]) );
 
             for (int j = 0; j < arr2D[i].length; j++) { //j: index number of elements
 

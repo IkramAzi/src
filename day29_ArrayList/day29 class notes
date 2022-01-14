@@ -25,5 +25,5 @@ Bulk Operations: argumnet MUST be a collection type
 	containsAll(CollectionType): checks if all the elements are contained in the arraylist
 
 
-Arrays:
+practiceBook.Arrays:
 	asList(array of values) ===> returns the array as collectionType

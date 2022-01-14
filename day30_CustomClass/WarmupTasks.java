@@ -16,7 +16,7 @@ public class WarmupTasks {
         System.out.println(numbers);
 
         //int[] arr = {1,2,3,4,5,6,7,8};
-        // System.out.println( Arrays.toString(arr )  );
+        // System.out.println( practiceBook.Arrays.toString(arr )  );
 
         System.out.println("-----------------------------------------");
 
